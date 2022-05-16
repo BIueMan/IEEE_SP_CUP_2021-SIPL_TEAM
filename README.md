@@ -14,3 +14,6 @@ This GitHub contain the code use in the compatision.
 # Links To The Papers
 * [SP_CUP](https://github.com/BIueMan/IEEE_SP_CUP_2021-SIPL_TEAM/blob/main/SP_Cup_2021.pdf)
 * [ICC_2022](https://github.com/BIueMan/IEEE_SP_CUP_2021-SIPL_TEAM/blob/main/ICC_2021.pdf)
+* [Poster](https://github.com/BIueMan/IEEE_SP_CUP_2021-SIPL_TEAM/blob/main/PosterSIPL_SPcup2021.pptx)
+
+![](/images/PosterSIPL_SPcup2021.jpg)
